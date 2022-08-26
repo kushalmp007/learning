@@ -10,6 +10,6 @@ int main()
 // #endif
  int a=2,b=3,c;
  c= a+b;
- cout<<c<<endl;
+ cout<<"output is: "<<c<<endl;
  return 0;
 }
